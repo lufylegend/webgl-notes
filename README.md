@@ -3,6 +3,7 @@
 注：文章译自 [http://wgld.org/](http://wgld.org/)，原作者杉本雅広(doxas)，文章中如果有我的额外说明，我会加上［lufy：］，另外，一些专业词语，如果翻译有误，欢迎大家指正。
 
 # 目录
-- 一，[浏览器的准备](https://github.com/lufylegend/webgl-notes/blob/main/list/1.md) 最终更新日：2023年11月25日
-- 二，[开始WebGL之前，先了解一下canvas](https://github.com/lufylegend/webgl-notes/blob/main/list/2.md) 最终更新日：2023年11月25日
-- 三，[3D绘图的基础知识](https://github.com/lufylegend/webgl-notes/blob/main/list/2.md) 最终更新日：2023年11月25日
+- 一，[浏览器的准备](./list/1.md) 最终更新日：2023年11月25日
+- 二，[开始WebGL之前，先了解一下canvas](./list/2.md) 最终更新日：2023年11月25日
+- 三，[3D绘图的基础知识](./list/3.md) 最终更新日：2023年11月25日
+- 四，[渲染准备](./list/4.md) 最终更新日：2023年12月3日
